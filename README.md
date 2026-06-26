@@ -86,6 +86,7 @@ Cadastro de Condomínios
 Perfil do Usuário
 Agendamento de Manutenções
 Listagem de Manutenções
+
 Mobile
 Login
 Cadastro de Usuário
@@ -132,10 +133,12 @@ Segurança da Informação.
 Antonio Marcos Feitosa da Silva
 
 🎓 Bacharel em Administração
+
 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas (concluído)
 
 Contato
 💼 LinkedIn: https://www.linkedin.com/in/antonio-marcos-ads
+
 📧 Email: antoniomarcosfeitosasilva66@gmail.com
 
 ⭐ Se este projeto foi interessante para você, deixe uma estrela no repositório!
