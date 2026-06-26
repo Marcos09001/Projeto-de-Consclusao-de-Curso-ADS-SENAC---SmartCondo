@@ -76,22 +76,22 @@ O banco de dados foi inicialmente modelado no MySQL Workbench, utilizando o mode
 
 O projeto contempla duas versões da aplicação:
 
-Desktop
-Login
-Cadastro de Usuários
-Configurações
-Recuperação de Senha
-Navegação Principal
-Cadastro de Condomínios
-Perfil do Usuário
-Agendamento de Manutenções
-Listagem de Manutenções
+Desktop:
+Login;
+Cadastro de Usuários;
+Configurações;
+Recuperação de Senha;
+Navegação Principal;
+Cadastro de Condomínios;
+Perfil do Usuário;
+Agendamento de Manutenções;
+Listagem de Manutenções;
 
-Mobile
-Login
-Cadastro de Usuário
-Nova Manutenção
-Lista de Manutenções
+Mobile:
+Login;
+Cadastro de Usuário;
+Nova Manutenção;
+Lista de Manutenções;
 
 Todas as interfaces foram prototipadas no Figma, priorizando usabilidade, acessibilidade e experiência do usuário.
 
