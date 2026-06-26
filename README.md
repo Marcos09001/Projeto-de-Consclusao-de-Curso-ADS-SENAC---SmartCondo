@@ -23,7 +23,8 @@ Interface responsiva para Desktop e Mobile.
 
 O projeto tem como principal objetivo oferecer uma solução tecnológica para o gerenciamento de manutenção predial, auxiliando síndicos, administradores e gestores na organização das atividades de manutenção, seguindo as recomendações da ABNT NBR 5674:2024 e boas práticas relacionadas à segurança da informação e à LGPD.
 
-✨ Principais Funcionalidades
+✨ Principais Funcionalidades:
+
 🔐 Login e autenticação de usuários
 👤 Cadastro de usuários
 🏢 Cadastro de condomínios
@@ -106,7 +107,7 @@ Aplicação das boas práticas de Engenharia de Software
 Conformidade com a ABNT NBR 5674:2024
 Consideração de princípios da LGPD
 
-🚀 Melhorias Futuras
+🚀 Melhorias Futuras:
 Integração com Inteligência Artificial para manutenção preditiva;
 Dashboard analítico com Power BI;
 Notificações em tempo real;
